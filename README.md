@@ -1,5 +1,5 @@
 # Instagram-Clone
-![1](https://user-images.githubusercontent.com/86094475/208919191-3d095044-376c-4bb7-a042-f5c81fed93fa.jpeg| width=100)
+![1](https://user-images.githubusercontent.com/86094475/208919191-3d095044-376c-4bb7-a042-f5c81fed93fa.jpeg | width=100)
 ![2](https://user-images.githubusercontent.com/86094475/208919235-e2dd8010-9827-4b95-88f9-c4b0d758e0a9.jpeg)
 ![3](https://user-images.githubusercontent.com/86094475/208919260-5f8cba10-b26e-46a4-9ee5-7ce15cbb992f.jpeg)
 ![4](https://user-images.githubusercontent.com/86094475/208919303-144589d7-ac9e-469b-b4f0-2fc100da1b86.jpeg)
